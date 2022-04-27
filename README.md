@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reeve Chaitanya.
 - 👀 I’m currently looking for an Internship.
 - 🌱 I’m currently learning Pygame.
-- 📫 How to reach me chaitanyareeve@gmail.com
+- 📫 How to reach me chaitanyareeve1@gmail.com
 - ⚡ Fun Fact: I am an Elite Top-Tier PC Gamer.
 
 <!---
